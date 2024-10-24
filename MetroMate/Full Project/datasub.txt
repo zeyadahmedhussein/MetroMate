@@ -1,0 +1,4 @@
+Wallet W  0 0
+Student S  90 180
+PublicMonthly M  30 60
+PublicAnnual A  365 730

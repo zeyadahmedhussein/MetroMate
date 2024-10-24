@@ -1,0 +1,84 @@
+1 El-Marg-El-Gedida R8 2 0
+1 El-Marg R8 0 0
+1 Ezbet-El-Nakhl R8 0 0
+1 Ain-Shams R8 0 1
+1 El-Matareyya R8 0 0
+1 Helmeyet-El-Zaitoun R8 0 0
+1 Hadayek-El-Zaitoun R8 0 0
+1 Saray-El-Qobba R5 0 0
+1 Hammamat-El-Qobba R5 0 0
+1 Kobri-El-Qobba R5 0 0
+1 Manshiet-El-Sadr R5 0 0
+1 El-Demerdash R5 0 0
+1 Ghamra R5 0 0
+1 Al-Shohadaa S1 0 0
+1 Orabi R1 0 0
+1 Nasser N1 0 0
+1 Sadat R1 0 0
+1 Saad-Zaghloul R1 0 0
+1 Al-Sayeda-Zeinab R2 0 0
+1 El-Malek-El-Saleh R2 0 0
+1 Mar-Girgis R2 0 0
+1 El-Zahraa R2 0 0
+1 Dar-El-Salam R2 0 0
+1 Hadayek-El-Maadi R7 0 0
+1 Maadi R7 0 0
+1 Sakanat-El-Maadi R7 0 0
+1 Tora-El-Balad R7 0 0
+1 Kozzika R7 0 0
+1 Tora-El-Asmant R7 0 0
+1 El-Maasara R9 0 0
+1 Hadayek-Helwan R9 0 0
+1 Wadi-Hof R9 0 0
+1 Helwan-University R9 0 0
+1 Ain-Helwan R9 0 0
+1 Helwan R9 0 0
+2 Shubra-El-Kheima R 6 0 0
+2 Kolleyyet-El-Zeraa R 6 0 0
+2 Mezallat R 6 0 0
+2 Khalafawy R 6 0 0
+2 St.-Teresa R 6 0 0
+2 Rod-El-Farag R 6 0 1
+2 Masarra R 6 0 0
+2 Al-Shohadaa S 1 0 0
+2 Ataba A 1 0 0
+2 Mohamed-Naguib R 1 0 0
+2 Sadat R 1 0 0
+2 Opera R 1 0 0
+2 Dokki R 3 0 0
+2 Bohooth R 3 0 0
+2 Cairo-University R 3 0 0
+2 Faisal R 3 1 0
+2 Giza R 3 0 0
+2 Omm-El-Misryeen R 3 0 0
+2 Sakiat-Mekki R 3 0 0
+2 El-Monib R 3 0 1
+3 Mohawar-Rod-El-Farag R -1 0 0
+3 Al-Tareeq-Al-Daery R -1 0 0
+3 Al-Qawmeya-Al-Arabeya R -1 0 0
+3 Al-Bohy R -1 0 0
+3 Imbaba R -1 1 0
+3 Sudan R -1 0 0
+3 El-Kit-Kat R -1 0 0
+3 Safaa-Hegazy R -1 0 0
+3 Maspero R -1 0 1
+3 Nasser N 1 0 0
+3 Al-Ataba A 1 0 0
+3 Bab-El-Shaaria R 4 0 0
+3 Al-Gesh R 4 0 0
+3 Abdu-Basha R 4 0 0
+3 Al-Abbasiya R 4 0 0
+3 Fair-Zone R 4 0 0
+3 Cairo-Stadium R 4 0 0
+3 Kolleyet-El-Banat R 4 0 0
+3 Al-Ahram R 4 0 0
+3 Haroun R 10 0 0
+3 Heliopolis R 10 0 0
+3 Alf-Maskan R 10 0 0
+3 Nady-El-Shams R 10 0 0
+3 Al-Nozha R -1 0 0
+3 Hisham-Barakat R -1 0 0
+3 Qubba R -1 0 0
+3 Omar-Ibn-El-Khattab R -1 0 0
+3 Al-Haykstep R -1 0 0
+3 Adly-Mansour R -1 0 0

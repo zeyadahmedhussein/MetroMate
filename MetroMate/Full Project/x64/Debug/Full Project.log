@@ -1,0 +1,27 @@
+﻿  Source.cpp
+W:\best\With new functions\Full Project\Source.cpp(123,19): warning C4305: 'argument': truncation from 'double' to 'float'
+W:\best\With new functions\Full Project\Source.cpp(437,10): warning C4101: 'choice': unreferenced local variable
+W:\best\With new functions\Full Project\Source.cpp(602,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(615,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(638,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(638,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(893,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1423,47): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1453,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1506,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1734,88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1804,110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1825,111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1846,111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1869,111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1890,111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1917,111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1941,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(1968,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(2173,10): warning C4101: 'choice': unreferenced local variable
+W:\best\With new functions\Full Project\Source.cpp(2283,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(2286,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+W:\best\With new functions\Full Project\Source.cpp(2630,9): warning C4101: 'walletprice': unreferenced local variable
+W:\best\With new functions\Full Project\Source.cpp(1583): warning C4715: 'GetDepartureName': not all control paths return a value
+W:\best\With new functions\Full Project\Source.cpp(1605): warning C4715: 'GetDestinationName': not all control paths return a value
+  Full Project.vcxproj -> W:\best\With new functions\x64\Debug\Full Project.exe
